@@ -1,0 +1,7 @@
+Day3
+AM：晨会，JavaScript的科普讲座
+PM：完成前端页面的css样式设计。
+
+明日计划：之前JavaScript没有相关基础，明天开始学习JavaScript的基本知识，同时开始编写软件JavaScript部分。
+
+今日总结：今天完成了html页面css样式的设计与编写，熟悉了css 选择器的使用。

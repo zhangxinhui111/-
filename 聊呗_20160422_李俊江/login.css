@@ -1,0 +1,46 @@
+body{
+	background-image: url(img/bgrobot3.jpg);
+}
+
+#loginall{
+	margin:10px;
+	width:640px;
+	height: 1200px;
+	background-color: yellow;
+	text-align:       center;
+	border: solid 3px blue;
+	border-radius: 20px;
+	font-family: 微软雅黑;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1{
+	height: 100px;
+	display: table;
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+h1 p{
+	display: table-cell;
+	vertical-align: middle;
+	
+}
+
+h2{
+	height: 50px;
+	margin-top: 50px;
+}
+
+p.robot,p.man{
+	font-size: 1.5em;
+}
+
+#man{
+	margin-top: 100px;
+}
+
+#yourid{
+	margin-top: 50px;
+}
